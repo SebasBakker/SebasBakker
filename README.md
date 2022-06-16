@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebas Bakker</h1>
 <h3 align="center">A passionate developer from the Netherlands</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasbakker" alt="sebasbakker" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasbakker&label=Profile%20views&color=0e75b6&style=flat" alt="sebasbakker" /> </p>
 
 - 🔭 I’m currently working on [Kwetter](https://github.com/Kwetter-Fontys)
 
