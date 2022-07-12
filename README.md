@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Kwetter](https://github.com/Kwetter-Fontys)
 
-- 📫 How to reach me **sebasbakker8@hotmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/sebas-bakker-114244212/](https://www.linkedin.com/in/sebas-bakker-114244212/)
 
 <h3 align="left">Connect with me:</h3>
